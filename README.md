@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋 I'm Max
 
-<!--
-**dudujuju828/dudujuju828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student at the University of Reading.  
+💻 I enjoy building graphics applications with **C++** and **OpenGL**.  
+🌐 Check out my website: [maxthomarino.com](https://www.maxthomarino.com)
 
-Here are some ideas to get you started:
+## 🔧 What I’m Working On
+- Exploring low-level rendering and graphics programming  
+- Experimenting with shaders and GPU optimization  
+- Creating small OpenGL projects to visualize algorithms and physics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I’m Learning
+- Advanced C++ concepts (templates, memory management, design patterns)  
+- Modern OpenGL (core profile, GLSL, and real-time rendering)  
+- Game engine architecture fundamentals
+
+## 📫 Connect with Me
+- 🌍 [Website](https://www.maxthomarino.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/max-marino-706359307/)
+- 🧑‍💻 [GitHub](https://github.com/yourusername)
+
+---
+
+> “The only way to learn a new programming language is by writing programs in it.”  
+> — Dennis Ritchie
