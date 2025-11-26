@@ -1,9 +1,7 @@
 ## Hi there 👋 I'm Max
 
 I'm a Computer Science student at the University of Reading.  
-I enjoy building graphics applications with **C++** and **OpenGL**.  
-Check out my website: [maxthomarino.com](https://www.maxthomarino.com)
-Check out my GraphicsEngine repository.
+I enjoy building graphics applications with **C++** and **OpenGL**. 
 
 ### What I’m Working On
 - Exploring low-level rendering and graphics programming  
