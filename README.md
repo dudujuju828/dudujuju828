@@ -1,6 +1,5 @@
 ## Max Marino
 
-### About
 Computer Science student at the University of Reading, specializing in graphics programming with **C++** and **OpenGL**.
 
 ### Projects
