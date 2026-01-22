@@ -1,14 +1,21 @@
-## Hi there 👋 I'm Max
+## Max Marino
 
-I'm a Computer Science student at the University of Reading.  
-I enjoy building graphics applications with **C++** and **OpenGL**. 
+Computer Science student at the University of Reading, specializing in graphics programming with **C++** and **OpenGL**.
 
-### What I’m Working On
-- Developing my GraphicsEngine to become a simple, use-able program, with a reasonable level of abstraction.
-- Exploring low-level rendering and graphics programming
-- Experimenting with shaders and GPU optimization  
-- Creating small OpenGL projects to visualize algorithms and physics
+### Projects
 
-### Connect with Me
-- [Website](https://www.maxthomarino.com)  
+**GraphicsEngine** — A work-in-progress rendering engine designed for creating 2D and 3D games, with a focus on clean abstraction and usability.
+
+**MinecraftStream** — Building Minecraft from scratch, developed entirely on livestream to document the full project lifecycle.
+
+**GemStack** — A queue-based AI development tool leveraging GeminiCLI for streamlined workflows.
+
+### Areas of Focus
+- Low-level rendering and graphics programming
+- Shader development and GPU optimization
+- Real-time graphics and game engine architecture
+- AI tooling and workflow automation
+
+### Contact
+- [Website](https://www.maxthomarino.com)
 - [LinkedIn](https://www.linkedin.com/in/max-marino-706359307/)
