@@ -10,6 +10,8 @@ Computer Science student at the University of Reading, specializing in graphics 
 
 **GemStack** — A queue-based AI development tool leveraging GeminiCLI for streamlined workflows.
 
+**RepoToCV** — A CV automation tool made for software developers.
+
 ### Areas of Focus
 - Low-level rendering and graphics programming
 - Shader development and GPU optimization
