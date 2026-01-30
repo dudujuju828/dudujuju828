@@ -12,6 +12,8 @@ Computer Science student at the University of Reading, specializing in graphics 
 
 **RepoToCV** — A CV automation tool made for software developers.
 
+**Abathel** — An event-driven HTTP/1.1 web server in modern C++ with a non-blocking I/O core.
+
 ### Areas of Focus
 - Low-level rendering and graphics programming
 - Shader development and GPU optimization
