@@ -16,6 +16,8 @@ Computer Science student at the University of Reading, specializing in graphics 
 
 **Abathel** — An event-driven HTTP/1.1 web server in modern C++ with a non-blocking I/O core.
 
+**SpecOrca** — AI-agent orchestration using SDD (Spec-driven development).
+
 ### Areas of Focus
 - Low-level rendering and graphics programming
 - Shader development and GPU optimization
