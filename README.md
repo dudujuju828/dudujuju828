@@ -4,6 +4,8 @@ Computer Science student at the University of Reading, specializing in graphics 
 
 ### Projects
 
+**Octodoro** — A gamified octopus-themed social pomodoro timer. https://www.octodoro.com/
+
 **GraphicsEngine** — A work-in-progress rendering engine designed for creating 2D and 3D games, with a focus on clean abstraction and usability.
 
 **MinecraftStream** — Building Minecraft from scratch, developed entirely on livestream to document the full project lifecycle.
