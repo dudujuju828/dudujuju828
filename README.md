@@ -18,6 +18,8 @@ Computer Science student at the University of Reading, specializing in graphics 
 
 **SpecOrca** — AI-agent orchestration using SDD (Spec-driven development).
 
+**EduCPlusPlus** — a C++20 educational repository focused on teaching modern, idiomatic C++ through short lessons, runnable examples, and exercises.
+
 ### Areas of Focus
 - Low-level rendering and graphics programming
 - Shader development and GPU optimization
